@@ -1,4 +1,6 @@
-﻿namespace AdvancedDatabaseAndORMConcepts.Models
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace AdvancedDatabaseAndORMConcepts.Models
 {
     public enum Section
     {
